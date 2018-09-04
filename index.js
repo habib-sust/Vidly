@@ -1,3 +1,5 @@
+const Joi = require('joi');
+Joi.objectId = require('joi-objectid')(Joi);
 const mongoose = require('mongoose');
 const genres = require('./routes/genres');
 const customers = require('./routes/customers');
@@ -6,7 +8,9 @@ const rentals = require('./routes/rentals');
 const express = require('express');
 const app = express();
 
-mongoose.connect('mongodb://admin:2024@ds031751.mlab.com:31751/habib', {useNewUrlParser:true})
+const dbURL = 'mongodb://localhost/vidly';
+
+mongoose.connect(dbURL, {useNewUrlParser:true})
     .then(() => console.log('Connected to MongoDB...'))
     .catch(err => console.error('Could not connect to MongoDB...'));
 
