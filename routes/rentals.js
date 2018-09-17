@@ -52,15 +52,9 @@ router.post('/', async (req, res) => {
         res.send(rental);
 
     } catch (ex){
+
         res.status(500).send('Something failed');
     }
-
-    // rental = await rental.save();
-    //
-    // movie.numberInStock--;
-    // await movie.save();
-    // res.send(rental);
-
 });
 
 router.get('/:id', async (req, res) => {

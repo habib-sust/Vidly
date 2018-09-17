@@ -1,0 +1,4 @@
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-17T12:27:09.773Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-17T12:27:09.842Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-17T12:27:09.823Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at /Users/habibur/Node/vidly-project/node_modules/body-parser/lib/read.js:83:18\n    at invokeCallback (/Users/habibur/Node/vidly-project/node_modules/raw-body/index.js:224:16)\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2018-09-17T12:27:09.918Z"}
