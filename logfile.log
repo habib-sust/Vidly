@@ -674,3 +674,86 @@
 {"level":"error","timestamp":"2018-09-18T12:16:58.631Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:17:00.055Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:17:00.075Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:48:13.822Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:48:13.894Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:48:15.914Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:48:15.927Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:48:15.996Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:48:16.035Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:48:16.045Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:48:16.061Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:48:16.116Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:48:16.128Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:48:16.145Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:48:17.784Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:48:17.806Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:49:47.053Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:49:47.157Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:49:47.746Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:49:47.767Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:49:47.780Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:49:47.796Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:49:47.817Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:49:47.833Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:49:47.851Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:49:49.277Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:49:49.292Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:49:50.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:49:51.015Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:50:22.424Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:50:22.477Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:50:22.577Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:50:22.597Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:50:22.611Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:50:22.628Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:50:22.661Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:50:22.674Z"}
+{"message":"moment is not defined","stack":"ReferenceError: moment is not defined\n    at model.moment (/Users/habibur/Node/vidly-project/models/rental.js:68:25)\n    at Object.<anonymous>.router.post (/Users/habibur/Node/vidly-project/routes/returns.js:18:5)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:50:22.694Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:50:24.152Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:50:24.176Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:50:25.699Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:50:25.717Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:51:00.332Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:51:00.439Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-18T12:51:00.534Z"}
+{"level":"error","timestamp":"2018-09-18T12:51:00.563Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:51:02.003Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:51:02.021Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-18T12:51:03.514Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-18T12:51:03.534Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:14:09.981Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:14:10.123Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:14:13.099Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:14:13.113Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T05:14:13.197Z"}
+{"level":"error","timestamp":"2018-09-19T05:14:13.377Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:14:15.283Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:14:15.309Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:14:59.826Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:14:59.881Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:15:01.656Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:15:01.673Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T05:15:01.748Z"}
+{"level":"error","timestamp":"2018-09-19T05:15:01.781Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:15:03.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:15:03.340Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:35:40.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:35:40.987Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:35:42.756Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:35:42.772Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T05:35:42.841Z"}
+{"level":"error","timestamp":"2018-09-19T05:35:42.871Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:35:44.242Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:35:44.266Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:36:50.760Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:36:50.812Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:36:52.479Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:36:52.490Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T05:36:52.553Z"}
+{"level":"error","timestamp":"2018-09-19T05:36:52.587Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:36:54.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:36:54.018Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:37:19.963Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:37:20.015Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:53:14.877Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-09-19T05:53:14.945Z"}
