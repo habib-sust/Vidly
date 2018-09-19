@@ -757,3 +757,579 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T05:37:20.015Z"}
 {"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T05:53:14.877Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-09-19T05:53:14.945Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:01:22.230Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:01:22.293Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:01:25.207Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:01:25.220Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T06:01:25.322Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:01:27.074Z"}
+{"level":"error","timestamp":"2018-09-19T06:01:27.083Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:01:27.097Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:02:09.172Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:02:09.277Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:02:10.974Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:02:10.986Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T06:02:11.066Z"}
+{"level":"error","timestamp":"2018-09-19T06:02:11.095Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:02:12.491Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:02:12.512Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:03:33.359Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:03:33.411Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:03:35.096Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:03:35.108Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T06:03:35.189Z"}
+{"level":"error","timestamp":"2018-09-19T06:03:35.219Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:03:36.686Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:03:36.708Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:17:08.539Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:17:08.592Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:17:10.242Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:17:10.254Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T06:17:10.322Z"}
+{"level":"error","timestamp":"2018-09-19T06:17:10.355Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:17:11.794Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:17:11.820Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:29:23.149Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:29:23.202Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:29:24.891Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:29:24.904Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T06:29:24.968Z"}
+{"level":"error","timestamp":"2018-09-19T06:29:24.998Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:29:26.655Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:29:26.676Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:43:42.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-09-19T06:43:42.623Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:43:45.672Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T06:43:45.769Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T06:47:34.650Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2018-09-19T06:47:34.729Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:04:36.770Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:04:36.896Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:04:39.573Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:04:39.622Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:04:42.112Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:04:42.132Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:04:42.299Z"}
+{"level":"error","timestamp":"2018-09-19T07:04:42.368Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:04:45.141Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:04:45.171Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:07:18.160Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:07:18.244Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:07:19.738Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:07:19.856Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:07:21.511Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:07:21.535Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:07:23.163Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:07:23.175Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:07:23.239Z"}
+{"level":"error","timestamp":"2018-09-19T07:07:23.266Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:08:46.220Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:08:46.308Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:08:47.811Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:08:47.827Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:08:47.895Z"}
+{"level":"error","timestamp":"2018-09-19T07:08:47.929Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:08:49.492Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:08:49.517Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:08:51.342Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:08:51.365Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:10:01.059Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:10:01.153Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:10:02.663Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:10:02.786Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:10:04.468Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:10:04.481Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:10:04.554Z"}
+{"level":"error","timestamp":"2018-09-19T07:10:04.582Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:10:06.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:10:06.123Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:10:43.806Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:10:43.906Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:10:45.838Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:10:45.954Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:10:48.900Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:10:48.915Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:10:48.991Z"}
+{"level":"error","timestamp":"2018-09-19T07:10:49.027Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:10:50.625Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:10:50.645Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:16:41.683Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:16:41.840Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:16:43.230Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:16:43.250Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:16:43.327Z"}
+{"level":"error","timestamp":"2018-09-19T07:16:43.360Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:16:44.995Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:16:45.012Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:16:46.580Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:16:46.606Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:17:28.526Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:17:28.572Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:17:29.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:17:30.004Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:17:31.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:17:31.563Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:17:31.627Z"}
+{"level":"error","timestamp":"2018-09-19T07:17:31.656Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:17:33.080Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:17:33.104Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:43:30.724Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:43:30.846Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:43:32.574Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:43:32.586Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:43:32.667Z"}
+{"level":"error","timestamp":"2018-09-19T07:43:32.734Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:43:34.438Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:43:34.452Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:43:36.089Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:43:36.117Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:44:02.637Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:44:02.739Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:44:04.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:44:04.316Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:44:06.004Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:44:06.016Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:44:06.079Z"}
+{"level":"error","timestamp":"2018-09-19T07:44:06.108Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:44:07.550Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:44:07.574Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:45:08.959Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:45:09.005Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:45:10.686Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:45:10.705Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:45:10.774Z"}
+{"level":"error","timestamp":"2018-09-19T07:45:10.807Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:45:12.285Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:45:12.305Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:45:13.890Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:45:13.914Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:46:58.088Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:46:58.138Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:46:59.676Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:46:59.692Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:47:01.248Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:47:01.262Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:47:01.328Z"}
+{"level":"error","timestamp":"2018-09-19T07:47:01.359Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:47:02.814Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:47:02.833Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:51:56.335Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:51:56.444Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:51:57.868Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:51:57.882Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T07:51:57.950Z"}
+{"level":"error","timestamp":"2018-09-19T07:51:57.980Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:51:59.427Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:51:59.446Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T07:52:00.974Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T07:52:00.999Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:23:09.398Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:23:09.498Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:23:11.738Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:23:11.756Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:23:13.413Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:23:13.426Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T08:23:13.492Z"}
+{"level":"error","timestamp":"2018-09-19T08:23:13.520Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:23:15.118Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:23:15.141Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:24:26.542Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:24:26.652Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:24:28.373Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:24:28.389Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:24:29.965Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:24:29.979Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T08:24:30.061Z"}
+{"level":"error","timestamp":"2018-09-19T08:24:30.089Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:24:31.614Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:24:31.636Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:26:09.476Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:26:09.525Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:26:11.179Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:26:11.194Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:26:12.723Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:26:12.734Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T08:26:12.798Z"}
+{"level":"error","timestamp":"2018-09-19T08:26:12.827Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:26:14.314Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:26:14.336Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:27:03.167Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:27:03.278Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:27:04.877Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:27:04.889Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T08:27:04.958Z"}
+{"level":"error","timestamp":"2018-09-19T08:27:04.988Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:27:06.437Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:27:06.451Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:27:07.958Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:27:07.984Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:28:38.107Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:28:38.217Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:28:39.820Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:28:39.836Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:28:41.598Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:28:41.610Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T08:28:41.701Z"}
+{"level":"error","timestamp":"2018-09-19T08:28:41.744Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:28:43.256Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:28:43.281Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:29:04.692Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:29:04.738Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:29:06.163Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:29:06.177Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T08:29:06.242Z"}
+{"level":"error","timestamp":"2018-09-19T08:29:06.276Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:29:07.720Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:29:07.734Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:29:09.246Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:29:09.272Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:31:19.670Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:31:19.728Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:31:21.542Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:31:21.560Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T08:31:21.635Z"}
+{"level":"error","timestamp":"2018-09-19T08:31:21.663Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:31:23.229Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:31:23.249Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:31:24.864Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:31:24.887Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:35:28.755Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:35:28.854Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:35:30.482Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:35:30.494Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T08:35:30.585Z"}
+{"level":"error","timestamp":"2018-09-19T08:35:30.648Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:35:32.154Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:35:32.168Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T08:35:33.766Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T08:35:33.789Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:08:57.494Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:08:57.607Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:09:00.026Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:09:00.043Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:09:00.138Z"}
+{"level":"error","timestamp":"2018-09-19T09:09:00.183Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:09:01.778Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:09:01.800Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:09:03.573Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:09:03.602Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:09:56.506Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:09:56.628Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:09:58.668Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:09:58.681Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:09:58.754Z"}
+{"level":"error","timestamp":"2018-09-19T09:09:58.783Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:10:00.315Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:10:00.333Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:10:02.114Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:10:02.140Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:10:58.652Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:10:58.761Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:11:00.834Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:11:00.848Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:11:00.919Z"}
+{"level":"error","timestamp":"2018-09-19T09:11:00.950Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:11:02.426Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:11:02.450Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:11:03.874Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:11:03.889Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:11:55.903Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:11:55.951Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:11:58.525Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:11:58.542Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:12:00.399Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:12:00.413Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:12:00.480Z"}
+{"level":"error","timestamp":"2018-09-19T09:12:00.511Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:12:01.992Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:12:02.019Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:13:47.034Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:13:47.207Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:13:49.787Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:13:49.803Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:13:51.785Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:13:51.799Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:13:51.879Z"}
+{"level":"error","timestamp":"2018-09-19T09:13:51.932Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:13:54.766Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:13:54.814Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:16:20.497Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:16:20.616Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:16:22.804Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:16:22.832Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:16:24.346Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:16:24.362Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:16:24.454Z"}
+{"level":"error","timestamp":"2018-09-19T09:16:24.515Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:16:28.016Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:16:28.029Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:19:09.782Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:19:09.828Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:19:11.850Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:19:11.865Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:19:11.933Z"}
+{"level":"error","timestamp":"2018-09-19T09:19:11.961Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:19:13.806Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:19:13.824Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:19:15.468Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:19:15.491Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:24:14.786Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:24:14.837Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:24:18.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:24:18.231Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:24:20.628Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:24:20.648Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:24:20.748Z"}
+{"level":"error","timestamp":"2018-09-19T09:24:20.787Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:24:22.739Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:24:22.765Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:32:24.635Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:32:24.741Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:32:27.066Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:32:27.087Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:32:28.762Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:32:28.777Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:32:28.864Z"}
+{"level":"error","timestamp":"2018-09-19T09:32:28.892Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:32:30.430Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:32:30.451Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:37:18.991Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:37:19.034Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:37:20.995Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:37:21.012Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:37:22.518Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:37:22.531Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:37:22.595Z"}
+{"level":"error","timestamp":"2018-09-19T09:37:22.621Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:37:24.047Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:37:24.069Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:37:27.814Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:37:27.833Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:39:11.663Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:39:11.725Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:39:13.072Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:39:13.083Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:39:15.083Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:39:15.097Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:39:15.164Z"}
+{"level":"error","timestamp":"2018-09-19T09:39:15.195Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:39:16.656Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:39:16.674Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:39:18.047Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:39:18.253Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:41:08.278Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:41:08.338Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:41:09.699Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:41:09.714Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:41:11.696Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:41:11.713Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:41:11.780Z"}
+{"level":"error","timestamp":"2018-09-19T09:41:11.812Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:41:13.255Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:41:13.271Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:41:14.693Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:41:14.874Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:48:19.212Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:48:19.276Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:48:20.662Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:48:20.675Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:48:22.672Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:48:22.688Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T09:48:22.752Z"}
+{"level":"error","timestamp":"2018-09-19T09:48:22.781Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:48:24.243Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:48:24.259Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T09:48:25.616Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T09:48:25.798Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:01:52.320Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:01:52.380Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:01:53.746Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:01:53.756Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:01:56.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:01:56.069Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:01:56.147Z"}
+{"level":"error","timestamp":"2018-09-19T10:01:56.178Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:01:57.785Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:01:57.803Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:01:59.524Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:01:59.722Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:00.984Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:01.045Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:02.501Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:02.510Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:04.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:04.564Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:05.945Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:05.958Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:03:06.023Z"}
+{"level":"error","timestamp":"2018-09-19T10:03:06.053Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:07.347Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:07.532Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:41.903Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:41.965Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:43.561Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:43.575Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:45.922Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:45.934Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:03:46.004Z"}
+{"level":"error","timestamp":"2018-09-19T10:03:46.044Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:47.611Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:47.625Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:03:49.075Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:03:49.270Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:08:19.178Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:08:19.291Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:08:20.724Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:08:20.735Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:08:22.700Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:08:22.712Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:08:22.779Z"}
+{"level":"error","timestamp":"2018-09-19T10:08:22.808Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:08:24.233Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:08:24.249Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:08:25.603Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:08:25.790Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:24:53.105Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:24:53.252Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:24:54.974Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:24:54.989Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:24:58.248Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:24:58.273Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:24:58.391Z"}
+{"level":"error","timestamp":"2018-09-19T10:24:58.499Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:25:00.626Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:25:00.656Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:25:03.236Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:25:03.267Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:27:19.463Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:27:19.572Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:27:21.285Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:27:21.297Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:27:21.382Z"}
+{"level":"error","timestamp":"2018-09-19T10:27:21.412Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:27:22.914Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:27:22.923Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:27:24.887Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:27:24.915Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:27:26.244Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:27:26.427Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:29:02.984Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:29:03.104Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:29:04.635Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:29:04.654Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:29:06.763Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:29:06.778Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:29:08.474Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:29:08.486Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:29:08.597Z"}
+{"level":"error","timestamp":"2018-09-19T10:29:08.626Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:29:10.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:29:10.669Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:30:14.832Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:30:14.946Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:30:16.402Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:30:16.417Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:30:18.381Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:30:18.403Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:30:19.779Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:30:19.797Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:30:19.863Z"}
+{"level":"error","timestamp":"2018-09-19T10:30:19.897Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:30:21.283Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:30:21.472Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:31:07.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:31:07.842Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:31:09.521Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:31:09.532Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:31:11.786Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:31:11.801Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:31:13.411Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:31:13.431Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:31:13.513Z"}
+{"level":"error","timestamp":"2018-09-19T10:31:13.550Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:31:14.979Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:31:15.201Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:32:21.080Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:32:21.192Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:32:22.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:32:22.698Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:32:24.681Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:32:24.694Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:32:24.755Z"}
+{"level":"error","timestamp":"2018-09-19T10:32:24.786Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:32:26.243Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:32:26.262Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:32:27.662Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:32:27.854Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:35:31.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:35:32.091Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:35:33.618Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:35:33.628Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:35:35.729Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:35:35.746Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:35:35.815Z"}
+{"level":"error","timestamp":"2018-09-19T10:35:35.845Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:35:37.348Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:35:37.362Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:35:38.811Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:35:38.999Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:35:56.176Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:35:56.302Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:35:58.004Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:35:58.026Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:36:00.076Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:36:00.091Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:36:00.160Z"}
+{"level":"error","timestamp":"2018-09-19T10:36:00.190Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:36:01.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:36:01.654Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:36:03.011Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:36:03.201Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:40:49.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:40:49.655Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:40:51.198Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:40:51.207Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:40:53.178Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:40:53.191Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:40:53.256Z"}
+{"level":"error","timestamp":"2018-09-19T10:40:53.284Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:40:54.737Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:40:54.753Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:40:56.108Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:40:56.293Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:41:19.779Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:41:19.885Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:41:21.441Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:41:21.453Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:41:23.432Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:41:23.447Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T10:41:23.509Z"}
+{"level":"error","timestamp":"2018-09-19T10:41:23.538Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:41:24.984Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:41:25.001Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T10:41:26.473Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T10:41:26.673Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:09:28.766Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:09:28.923Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:09:32.458Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:09:32.473Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:09:35.097Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:09:35.254Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T11:09:35.417Z"}
+{"level":"error","timestamp":"2018-09-19T11:09:35.517Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:09:37.153Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:09:37.322Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:09:38.782Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:09:38.799Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:11:44.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:11:44.659Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:11:46.592Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:11:46.601Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:11:48.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:11:48.657Z"}
+{"message":"Cannot read property 'dateReturned' of null","stack":"TypeError: Cannot read property 'dateReturned' of null\n    at dateReturned (/Users/habibur/Node/vidly-project/routes/returns.js:16:16)\n    at <anonymous>","level":"error","timestamp":"2018-09-19T11:11:48.742Z"}
+{"level":"error","timestamp":"2018-09-19T11:11:48.771Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:11:50.389Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:11:50.415Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2018-09-19T11:11:51.750Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2018-09-19T11:11:51.937Z"}

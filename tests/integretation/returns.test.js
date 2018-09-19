@@ -59,6 +59,7 @@ describe('/api/retuns', ()=>{
     afterEach(async () => {
         await server.close();
         await Rental.remove({});
+        await Movie.remove({});
 
     });
 
